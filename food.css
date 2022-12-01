@@ -47,7 +47,7 @@ button:hover{
     position: absolute;
     font-size: xx-large;
     top: 108px;
-    left: 248px;
+    left: 178px;
     text-shadow: rgb(1, 20, 17) -6px -1px 4px;
 }
 
@@ -58,8 +58,8 @@ p {
 .a2 {
     color: rgb(255, 166, 0);
     position: absolute;
-    top: 221px;
-    left: 313px;
+    top: 210px;
+    left: 230px;
     font-size: x-large;
 }
 
@@ -82,52 +82,35 @@ img {
 
 }
 .col-1:hover{
-    width: 310px;
-    height: 290px;
-    box-shadow: black 10px 2px 20px;
-    border: white 4px solid;
+    border: white 2px solid;
 }
-
 .col-2 {
     background-color: rgb(6, 65, 55);
 }
 .col-2:hover{
-    width: 310px;
-    height: 290px;
-    box-shadow: black 10px 2px 20px;
-    border: white 4px solid;
+    border: white 2px solid;
 }
 
 .col-3 {
     background-color: rgb(6, 65, 55);
 }
 .col-3:hover{
-    width: 310px;
-    height: 290px;
-    box-shadow: black 10px 2px 20px;
-    border: white 4px solid;
+    border: white 2px solid;
 }
 
 .col-4 {
     background-color: rgb(17, 70, 39);
 }
 .col-4:hover{
-    width: 310px;
-    height: 290px;
-    box-shadow: black 10px 2px 20px;
-    border: white 4px solid;
+    border: white 2px solid;
 }
 
 .col-5 {
     background-color: rgb(7, 70, 59);
 }
 .col-5:hover{
-    width: 310px;
-    height: 290px;
-    box-shadow: black 10px 2px 20px;
-    border: white 4px solid;
+    border: white 2px solid;
 }
-
 
 .col-6 {
     background-color: rgb(17, 70, 39);
@@ -137,52 +120,50 @@ img {
     background-color: rgb(7, 70, 59);
 }
 .col-7:hover{
-    width: 310px;
-    height: 290px;
-    box-shadow: black 2px 2px 20px;
-    border: white 4px solid;
+    border: white 2px solid;
 }
+
 .a4 {
 
     color: rgb(255, 255, 255);
     position: absolute;
     font-size: x-large;
-    top: 85px;
-    left: 549px;
+    top: 90px;
+    left: 410px;
     text-shadow: rgb(1, 20, 17) -6px -1px 4px;
 }
 .a5{
     color: rgb(255, 166, 0);
     position: absolute;
     top: 290px;
-    left: 508px;
+    left: 370px;
     font-size: medium;
 }
 .a6 {
     position: absolute;
     top: 355px;
-    left: 599px;
+    left: 460px;
 }
 .a7{
 
     color: rgb(255, 255, 255);
     position: absolute;
     font-size: x-large;
-    top: 85px;
-    left: 968px;
+    top: 90px;
+    left: 755px;
     text-shadow: rgb(1, 20, 17) -6px -1px 4px;
 }
 .a8{
     color: rgb(255, 166, 0);
     position: absolute;
     top: 300px;
-    left: 1051px;
+    left: 760px;
     font-size: medium;
 }
 .a9{
     position: absolute;
     top: 355px;
-    left: 999px;
+    left: 785px;
 }
 .a10{
 
@@ -190,20 +171,20 @@ img {
     position: absolute;
     font-size: x-large;
     top: 135px;
-    left: 1307px;
+    left: 1023px;
     text-shadow: rgb(1, 20, 17) -6px -1px 4px;
 }
 .a11{
     color: rgb(255, 166, 0);
     position: absolute;
     top: 220px;
-    left: 1310px;
+    left: 1025px;
     font-size:x-large;
 }
 .a12{
     position: absolute;
     top: 349px;
-    left: 1394px;
+    left: 1035px;
 }
 .a13{
 
@@ -211,13 +192,13 @@ img {
     position: absolute;
     font-size: x-large;
     top: 470px;
-    left: 340px;
+    left: 238px;
     text-shadow: rgb(1, 20, 17) -6px -1px 4px;
 }
 .a14{
     position: absolute;
     top: 675px;
-    left: 394px;
+    left: 294px;
 }
 .a15{
 
@@ -225,7 +206,7 @@ img {
     position: absolute;
     font-size: xX-large;
     top: 455px;
-    left: 740px;
+    left: 558px;
     text-shadow: rgb(1, 20, 17) -6px -5px 2px;
 }
 .col-6 img{
@@ -235,7 +216,7 @@ img {
 .a16{
     position: absolute;
     top: 689px;
-    left: 810px;
+    left: 630px;
 }
 .col-7 img{
     height: 280px;
@@ -246,14 +227,14 @@ img {
     color: rgb(255, 255, 255);
     position: absolute;
     font-size: x-large;
-    top: 475px;
-    left: 1205px;
+    top: 480px;
+    left: 946px;
     text-shadow: rgb(1, 20, 17) -6px -1px 4px;
 }
 .a18{
     position: absolute;
     top: 675px;
-    left: 1215px;
+    left: 950px;
 }
 span{
     color: rgb(255, 166, 0) ;
